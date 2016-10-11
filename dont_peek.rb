@@ -1,5 +1,5 @@
 # Rock, Paper, Scissors: Example solution for Version 1
-
+puts 'test'
 puts "Welcome to Rock, Paper, Scissors!"
 
 puts "rock, paper, or scissors?"
